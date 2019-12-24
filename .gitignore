@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/.vscode/
+/jre/
+/backdoor/
+.DS_Store
+/*.jar
